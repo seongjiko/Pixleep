@@ -1,2 +1,8 @@
 datasets/
+datasets/**
 **checkpoint**
+id_rsa.pub
+result/
+result/**
+temp/
+temp/**
