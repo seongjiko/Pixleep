@@ -6,3 +6,5 @@ result/
 result/**
 temp/
 temp/**
+models/
+models/**
