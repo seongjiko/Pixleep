@@ -1,4 +1,4 @@
-### README.md for ETRI Human Understanding AI Competition (2024)
+### [ETRI Human Understanding AI Competition (2024)](https://aifactory.space/task/2790/overview)
 
 #### Repository Overview
 Welcome to the GitHub repository for Team Tongmotjahaotdog's submission to the 3rd ETRI Human Understanding AI Competition in 2024. This repository contains all the necessary source codes and instructions for reproducing our model and results. Our approach includes processing and synchronizing various sensor data to predict human activities and conditions accurately.
