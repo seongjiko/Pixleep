@@ -71,18 +71,20 @@ The datasets provided by ETRI are processed without including the year in the tr
 ### How to Run
 - **Preprocessing**
   ```bash
-  jupyter notebook preprocessing_5channel.ipynb
-  jupyter notebook preprocessing_11channel.ipynb
+  jupyter notebook preprocessing_valid.ipynb
+  jupyter notebook preprocessing_test.ipynb
+  jupyter notebook preprocessing_valid_all_sensor.ipynb
+  jupyter notebook preprocessing_test_all_sensor.ipynb
   ```
 - **Training**
   ```bash
-  jupyter notebook train_model_5channel.ipynb
-  jupyter notebook train_model_11channel.ipynb
+  jupyter notebook train_11channel(resnext101).ipynb
+  jupyter notebook train_5channel(seresnext101).ipynb
   ```
 - **Inference**
   ```bash
-  jupyter notebook inference_5channel.ipynb
-  jupyter notebook inference_11channel.ipynb
+  jupyter notebook inference_5channel(seresnext101).ipynb
+  jupyter notebook inference_11channel(resnext101).ipynb
   ```
 - **Submission**: Finally, run the `submit.ipynb` notebook to compile results into `submit.csv`.
 
