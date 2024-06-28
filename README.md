@@ -101,7 +101,3 @@ We aim to explore more sophisticated data augmentation techniques and potentiall
 - Seongji Ko
 
 For any additional information or queries, please open an issue in this repository.
-
----
-
-This README is intended to guide users through the setup, execution, and understanding of our project structure and approaches for the ETRI Human Understanding AI Competition. Our code is structured to be transparent and reproducible, ensuring that anyone can replicate our findings and build upon our work.
