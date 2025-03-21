@@ -1,4 +1,10 @@
-### [ETRI Human Understanding AI Competition (2024)](https://aifactory.space/task/2790/overview)
+# [2024 ETRI 휴먼이해 AI경진대회 대상수상 모델](https://aifactory.space/task/2790/overview)
+- [PixleepFlow: A Pixel-Based Lifelog Framework for Predicting Sleep Quality and Stress Level](https://www.arxiv.org/abs/2502.17469)
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/ba5cc2fe-a753-4734-940b-4ecd6ce67af8" />
+
+![image](https://github.com/user-attachments/assets/7b271186-6864-43b6-8e77-8071cab8a3ae)
+
+
 
 #### Repository Overview
 Welcome to the GitHub repository for Team Tongmotjahaotdog's submission to the 3rd ETRI Human Understanding AI Competition in 2024. This repository contains all the necessary source codes and instructions for reproducing our model and results. Our approach includes processing and synchronizing various sensor data to predict human activities and conditions accurately.
